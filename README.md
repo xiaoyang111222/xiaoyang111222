@@ -19,4 +19,5 @@ Building small useful things: kids' tests, math diagnostics & AI tools. 🇨🇳
 ## 📫 Contact
 
 - X: [@hassanyehiaa](https://x.com/hassanyehiaa)
+- Telegram: [@cddzz110](https://t.me/cddzz110)
 - Website: [pansgo.com](https://pansgo.com)
